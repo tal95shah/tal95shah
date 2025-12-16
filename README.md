@@ -19,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tal95shah&show_icons=true&locale=en&layout=compact" alt="tal95shah" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tal95shah&show_icons=true&locale=en" alt="tal95shah" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tal95shah&"/></p>
