@@ -1,6 +1,6 @@
 # Hi 👋, I'm Talha Gillani
 
-### Full Stack Engineer (5+ Years of Experience)
+### Full Stack Engineer (6+ Years of Experience)
 
 - 📫 How to reach me **talhagillani96@gmail.com**
 
